@@ -1,0 +1,327 @@
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.AssemblyReference.cache
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф_КООП.Form12 - Copy.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form11.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form9.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form1.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Добавяне_на_договори.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form16.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form19.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form22.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form10.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form8.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form15.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form6.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Изтриване_на_договори.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form17.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form20.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Изтриване_на_сделки.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form7.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Наемодатели.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form13.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form2.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Редактиране_на_довори.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form18.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form21.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Редактиране_на_сделки.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form14.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form4.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form5.resources
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.GenerateResource.cache
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.AssemblyInfoInputs.cache
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.AssemblyInfo.cs
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.CoreCompileInputs.cache
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.exe
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.deps.json
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.runtimeconfig.json
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.runtimeconfig.dev.json
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\ref\Ф КООП.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.pdb
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mega\Desktop\Ф КООП\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.CopyComplete
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.dll
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\ref\Ф КООП.dll
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.pdb
+C:\Users\mega\Desktop\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.genruntimeconfig.cache
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.AssemblyReference.cache
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф_КООП.Form12 - Copy.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form11.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form9.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form1.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Добавяне_на_договори.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form16.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form19.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form22.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form10.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form8.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form15.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form6.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Изтриване_на_договори.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form17.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form20.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Изтриване_на_сделки.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form7.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Наемодатели.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form13.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form2.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Редактиране_на_довори.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form18.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form21.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Редактиране_на_сделки.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form14.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form4.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form5.resources
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.GenerateResource.cache
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.AssemblyInfoInputs.cache
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.AssemblyInfo.cs
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.CoreCompileInputs.cache
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\ref\Ф КООП.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.pdb
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.exe
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.deps.json
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.runtimeconfig.json
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.runtimeconfig.dev.json
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\ref\Ф КООП.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.pdb
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.CopyComplete
+C:\Users\mega\Downloads\Ф КООП\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.genruntimeconfig.cache
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.exe
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.deps.json
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.runtimeconfig.json
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.runtimeconfig.dev.json
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\ref\Ф КООП.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.pdb
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф_КООП.Form12 - Copy.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form11.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form9.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form1.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Добавяне_на_договори.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form16.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form19.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form22.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form10.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form8.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form15.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form6.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Изтриване_на_договори.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form17.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form20.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Изтриване_на_сделки.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form7.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Наемодатели.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form13.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form2.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Редактиране_на_довори.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form18.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form21.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Редактиране_на_сделки.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form14.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form4.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form5.resources
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.GenerateResource.cache
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.AssemblyInfoInputs.cache
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.AssemblyInfo.cs
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.CoreCompileInputs.cache
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.CopyComplete
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\ref\Ф КООП.dll
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.pdb
+C:\Users\Yonko\Downloads\e5846d0d2ab5f9d1\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.genruntimeconfig.cache
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.exe
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.deps.json
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.runtimeconfig.json
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.runtimeconfig.dev.json
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\ref\Ф КООП.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Ф КООП.pdb
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Humanizer.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Yonko\Downloads\yonko\Ф КООП\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csprojAssemblyReference.cache
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф_КООП.Form12 - Copy.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form11.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form9.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form1.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Добавяне_на_договори.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form16.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form19.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form22.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form10.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form8.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form15.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form6.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Изтриване_на_договори.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form17.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form20.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Изтриване_на_сделки.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form7.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Наемодатели.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form13.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form2.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Редактиране_на_довори.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form18.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form21.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Редактиране_на_сделки.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form14.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form4.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\WinFormsApp9.Form5.resources
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.GenerateResource.cache
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.AssemblyInfoInputs.cache
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.AssemblyInfo.cs
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.CoreCompileInputs.cache
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.csproj.CopyComplete
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\ref\Ф КООП.dll
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.pdb
+C:\Users\Yonko\Downloads\yonko\Ф КООП\obj\Debug\net5.0-windows\Ф КООП.genruntimeconfig.cache

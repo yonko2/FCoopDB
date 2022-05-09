@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Главно меню.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Добавяне на договори.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Договори, сключени през текущата година .cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Oбща засадена площ по всяка култура към настоящия мoмент.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Изтриване на договори.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Изтриване на сделки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Наемодатели.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Наета земя.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Редактиране на договори.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Редактиране на сделки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Сделки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Договори.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Добавяне на наемодател.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Изтриване на наемодател.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Редактиране на наемодател.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Добавяне на наета земя.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Основни справки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Изтриване на наета земя.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Редактиране на наета земя.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Добавяне на сделки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Търсене на култура по номер на парцел.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Търсене на парцел.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Дължима рента по договор.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Наем на фирма за година.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Договори, чиито срок изтича през текущата година.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Брой на сключените договори за даден период.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
